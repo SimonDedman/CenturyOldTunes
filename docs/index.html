@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Century Old Tunes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🎵 Century Old Tunes</h1>
+        <p>Music by genre, location, and popularity, from 100 years ago this year.</p>
+        <div class="year-display">
+            <span id="current-year">2025</span> → <span id="target-year">1925</span>
+        </div>
+    </header>
+
+    <main>
+        <section class="search-filters">
+            <h2>Browse Historical Recordings</h2>
+            
+            <div class="filter-group">
+                <div class="filter">
+                    <label for="country-filter">Country/Region:</label>
+                    <select id="country-filter">
+                        <option value="">All Countries</option>
+                        <option value="US">United States</option>
+                        <option value="GB">United Kingdom</option>
+                        <option value="FR">France</option>
+                        <option value="DE">Germany</option>
+                        <option value="AT">Austria</option>
+                    </select>
+                </div>
+
+                <div class="filter">
+                    <label for="genre-filter">Genre:</label>
+                    <select id="genre-filter">
+                        <option value="">All Genres</option>
+                        <option value="jazz">Jazz</option>
+                        <option value="blues">Blues</option>
+                        <option value="classical">Classical</option>
+                        <option value="folk">Folk</option>
+                        <option value="popular">Popular</option>
+                        <option value="ragtime">Ragtime</option>
+                        <option value="dance">Dance</option>
+                    </select>
+                </div>
+
+                <div class="filter">
+                    <label for="sort-filter">Sort by:</label>
+                    <select id="sort-filter">
+                        <option value="title">Title</option>
+                        <option value="artist">Artist</option>
+                        <option value="popularity">Popularity</option>
+                        <option value="country">Country</option>
+                    </select>
+                </div>
+
+                <button id="search-btn" onclick="loadRecordings()">Search</button>
+            </div>
+        </section>
+
+        <section class="results">
+            <div id="loading" class="loading" style="display: none;">
+                Loading recordings...
+            </div>
+            
+            <div id="results-count" class="results-count"></div>
+            
+            <div id="recordings-grid" class="recordings-grid">
+                <!-- Recordings will be loaded here -->
+            </div>
+            
+            <div id="no-results" style="display: none;" class="no-results">
+                <p>No recordings found. Try adjusting your filters or check back later as we continue building the database.</p>
+            </div>
+        </section>
+
+        <section class="stats">
+            <h2>Database Statistics</h2>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <h3 id="total-recordings">---</h3>
+                    <p>Total Recordings</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="total-artists">---</h3>
+                    <p>Unique Artists</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="total-countries">---</h3>
+                    <p>Countries</p>
+                </div>
+                <div class="stat-card">
+                    <h3 id="total-genres">---</h3>
+                    <p>Genres</p>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>
+            Data sourced from <a href="https://www.discogs.com/">Discogs</a>, 
+            <a href="https://musicbrainz.org/">MusicBrainz</a>, 
+            and <a href="https://adp.library.ucsb.edu/">DAHR</a>
+        </p>
+        <p>
+            <a href="https://github.com/SimonDedman/CenturyOldTunes">View on GitHub</a>
+        </p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>

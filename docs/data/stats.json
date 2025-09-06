@@ -1,0 +1,89 @@
+{
+  "totalRecordings": [100],
+  "totalArtists": [33],
+  "totalCountries": [7],
+  "totalGenres": [10],
+  "countryBreakdown": [
+    {
+      "country": "US",
+      "count": 86
+    },
+    {
+      "country": "UK",
+      "count": 4
+    },
+    {
+      "country": "NL",
+      "count": 3
+    },
+    {
+      "country": "Canada",
+      "count": 3
+    },
+    {
+      "country": "DE",
+      "count": 2
+    },
+    {
+      "country": "USA & Canada",
+      "count": 1
+    },
+    {
+      "country": "GB",
+      "count": 1
+    }
+  ],
+  "genreBreakdown": [
+    {
+      "genre": "Unknown",
+      "count": 50
+    },
+    {
+      "genre": "Pop",
+      "count": 16
+    },
+    {
+      "genre": "Jazz",
+      "count": 9
+    },
+    {
+      "genre": "Jazz, Pop",
+      "count": 8
+    },
+    {
+      "genre": "Folk, World, & Country",
+      "count": 6
+    },
+    {
+      "genre": "Classical",
+      "count": 4
+    },
+    {
+      "genre": "Pop, Folk, World, & Country",
+      "count": 3
+    },
+    {
+      "genre": "Jazz, Pop, Stage & Screen",
+      "count": 1
+    },
+    {
+      "genre": "Jazz, Classical",
+      "count": 1
+    },
+    {
+      "genre": "Jazz, Blues",
+      "count": 1
+    },
+    {
+      "genre": "Blues",
+      "count": 1
+    }
+  ],
+  "yearBreakdown": [
+    {
+      "year": 1925,
+      "count": 100
+    }
+  ],
+  "lastUpdated": ["2025-09-06 02:13:45"]
+}

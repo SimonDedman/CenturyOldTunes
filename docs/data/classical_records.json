@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Enrico Caruso - Cantique De Noel (Holy Night)",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Classical",
+    "label": "Victrola",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "9026593"
+  },
+  {
+    "title": "Philadelphia Symphony Orchestra* Under The Direction Of Leopold Stokowski - Marche Slave",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Classical",
+    "label": "Victrola, Victor Talking Machine Co., Victor Pressing Plant, Camden, Church Studio, Camden, New Jersey",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "10373875"
+  },
+  {
+    "title": "Savoy Orpheans* - No, No, Nanette / Rose-Marie",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Jazz, Classical",
+    "label": "His Master's Voice",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "17729947"
+  },
+  {
+    "title": "Una Bourne - Rustle Of Spring - Op. 32, No. 3 / Le Jet D'Eau",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Classical",
+    "label": "His Master's Voice, The Gramophone Co. Ltd.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "13158672"
+  },
+  {
+    "title": "Wagner* - Symphony Orchestra*, Albert Coates - Parsifal",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Classical",
+    "label": "His Master's Voice, His Master's Voice, His Master's Voice, His Master's Voice, His Master's Voice, His Master's Voice, His Master's Voice, His Master's Voice, The Gramophone Co. Ltd.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "12757623"
+  }
+]

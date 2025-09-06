@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Charlie Jackson* - Salt Lake City Blues / Salty Dog Blues",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Blues",
+    "label": "Paramount, The New York Recording Laboratories",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "4251013"
+  },
+  {
+    "title": "Ethel Waters And Her Ebony Four - Go Back Where You Stayed Last Night / Down Home Blues",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Blues",
+    "label": "Columbia, Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "9467327"
+  }
+]
