@@ -56,19 +56,25 @@ class CenturyOldTunesApp {
             'GB': 'United Kingdom', 
             'UK': 'United Kingdom',
             'DE': 'Germany',
+            'Germany': 'Germany',
             'FR': 'France',
             'AT': 'Austria',
             'IT': 'Italy',
             'CA': 'Canada',
+            'Canada': 'Canada',
             'AU': 'Australia',
+            'Australia': 'Australia',
             'NL': 'Netherlands',
             'BE': 'Belgium',
             'CH': 'Switzerland',
             'ES': 'Spain',
             'SE': 'Sweden',
+            'Sweden': 'Sweden',
             'NO': 'Norway',
             'DK': 'Denmark',
-            'FI': 'Finland'
+            'FI': 'Finland',
+            'IS': 'Iceland',
+            'USA & Canada': 'USA & Canada'  // Keep this special case as-is
         };
         
         return countryMap[country] || country;
@@ -79,20 +85,22 @@ class CenturyOldTunesApp {
         const countryVariants = {
             'United States': ['US', 'USA'],
             'United Kingdom': ['GB', 'UK'],
-            'Germany': ['DE'],
+            'Germany': ['DE', 'Germany'],
             'France': ['FR'],
             'Austria': ['AT'],
             'Italy': ['IT'],
-            'Canada': ['CA'],
-            'Australia': ['AU'],
+            'Canada': ['CA', 'Canada'],
+            'Australia': ['AU', 'Australia'],
             'Netherlands': ['NL'],
             'Belgium': ['BE'],
             'Switzerland': ['CH'],
             'Spain': ['ES'],
-            'Sweden': ['SE'],
+            'Sweden': ['SE', 'Sweden'],
             'Norway': ['NO'],
             'Denmark': ['DK'],
-            'Finland': ['FI']
+            'Finland': ['FI'],
+            'Iceland': ['IS'],
+            'USA & Canada': ['USA & Canada']
         };
         
         return countryVariants[country] || [country];
