@@ -1,5 +1,27 @@
 [
   {
+    "title": "Amelita Galli-Curci - Come D'aurato Sogno (Tacea La Notte Placida) / Timor Di Me? (D'amor Sull'ali Rosee)",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Pop, Classical",
+    "label": "His Master's Voice, The Gramophone Co. Ltd.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "5383475"
+  },
+  {
+    "title": "Edison Concert Band - Hungarian Lustpiel Overture / Raymond Overture",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Classical",
+    "label": "Edison Records, Edison Laboratories",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "6984533"
+  },
+  {
     "title": "Enrico Caruso - Cantique De Noel (Holy Night)",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -9,6 +31,28 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "9026593"
+  },
+  {
+    "title": "Giovanni Martinelli, Leoncavallo* - Pagliacci — Vesti La Giubba / Zazá - È Un Riso Gentil",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Classical",
+    "label": "Victrola, Victor Talking Machine Co.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "12986370"
+  },
+  {
+    "title": "J. H. Squire Celeste Trio -  Spring Song / Hungarian Dance, No. 5",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Classical",
+    "label": "Columbia, Columbia Graphophone Company Ltd.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "17737885"
   },
   {
     "title": "Philadelphia Symphony Orchestra* Under The Direction Of Leopold Stokowski - Marche Slave",
@@ -22,6 +66,17 @@
     "source_id": "10373875"
   },
   {
+    "title": "Richard Crooks (2) - Open The Gates Of The Temple / The Star Of Bethelehem",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Classical",
+    "label": "Victor, Victor Talking Machine Co., Victor Pressing Plant, Camden, Church Studio, Camden, New Jersey",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "9374732"
+  },
+  {
     "title": "Savoy Orpheans* - No, No, Nanette / Rose-Marie",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -31,6 +86,28 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "17729947"
+  },
+  {
+    "title": "Titta Ruffo - Prologo - Si Pùo? / Un Nido Di Memorie  (\"Pagliacci\")",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Classical",
+    "label": "His Master's Voice, The Gramophone Co. Ltd.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "11685106"
+  },
+  {
+    "title": "Toti Dal Monte - Rigoletto - Caro Nome / Barbiere Di Siviglia - Una Voce Poco Fa",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Classical",
+    "label": "Victrola, Victor Talking Machine Co.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "12183384"
   },
   {
     "title": "Una Bourne - Rustle Of Spring - Op. 32, No. 3 / Le Jet D'Eau",

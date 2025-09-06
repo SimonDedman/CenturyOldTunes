@@ -1,19 +1,39 @@
 {
-  "totalRecordings": [100],
-  "totalArtists": [33],
-  "totalCountries": [7],
-  "totalGenres": [10],
+  "totalRecordings": [290],
+  "totalArtists": [105],
+  "totalCountries": [15],
+  "totalGenres": [14],
   "countryBreakdown": [
     {
       "country": "US",
-      "count": 86
+      "count": 215
+    },
+    {
+      "country": "GB",
+      "count": 32
     },
     {
       "country": "UK",
-      "count": 4
+      "count": 11
+    },
+    {
+      "country": "DE",
+      "count": 5
+    },
+    {
+      "country": "CA",
+      "count": 5
     },
     {
       "country": "NL",
+      "count": 4
+    },
+    {
+      "country": "AU",
+      "count": 4
+    },
+    {
+      "country": "FR",
       "count": 3
     },
     {
@@ -21,49 +41,77 @@
       "count": 3
     },
     {
-      "country": "DE",
+      "country": "USA & Canada",
       "count": 2
     },
     {
-      "country": "USA & Canada",
+      "country": "Australia",
+      "count": 2
+    },
+    {
+      "country": "Sweden",
       "count": 1
     },
     {
-      "country": "GB",
+      "country": "SE",
+      "count": 1
+    },
+    {
+      "country": "IS",
+      "count": 1
+    },
+    {
+      "country": "Germany",
       "count": 1
     }
   ],
   "genreBreakdown": [
     {
       "genre": "Unknown",
-      "count": 50
+      "count": 191
     },
     {
       "genre": "Pop",
-      "count": 16
-    },
-    {
-      "genre": "Jazz",
-      "count": 9
+      "count": 25
     },
     {
       "genre": "Jazz, Pop",
-      "count": 8
+      "count": 22
     },
     {
       "genre": "Folk, World, & Country",
-      "count": 6
+      "count": 13
+    },
+    {
+      "genre": "Jazz",
+      "count": 10
     },
     {
       "genre": "Classical",
-      "count": 4
+      "count": 10
     },
     {
       "genre": "Pop, Folk, World, & Country",
-      "count": 3
+      "count": 6
+    },
+    {
+      "genre": "Blues",
+      "count": 6
+    },
+    {
+      "genre": "Pop, Classical",
+      "count": 1
+    },
+    {
+      "genre": "Non-Music, Folk, World, & Country",
+      "count": 1
     },
     {
       "genre": "Jazz, Pop, Stage & Screen",
+      "count": 1
+    },
+    {
+      "genre": "Jazz, Folk, World, & Country",
       "count": 1
     },
     {
@@ -75,15 +123,15 @@
       "count": 1
     },
     {
-      "genre": "Blues",
+      "genre": "Children's",
       "count": 1
     }
   ],
   "yearBreakdown": [
     {
       "year": 1925,
-      "count": 100
+      "count": 290
     }
   ],
-  "lastUpdated": ["2025-09-06 02:13:45"]
+  "lastUpdated": ["2025-09-06 02:56:00"]
 }

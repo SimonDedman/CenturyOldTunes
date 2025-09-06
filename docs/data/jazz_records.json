@@ -1,5 +1,27 @@
 [
   {
+    "title": "\"Piggy\" Jones & His Orch. - I'm Knee Deep In Daisies / I'm In Love With You",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Gennett, Gennett Records",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "14164238"
+  },
+  {
+    "title": "Ben Bernie And His Hotel Roosevelt Orchestra - I Had Someone Else Before I Had You / Happy Melody",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz",
+    "label": "Vocalion",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "33281283"
+  },
+  {
     "title": "Bennie Moten's Kansas City Orchestra - 18th Street Strut / Things Seem So Blue To Me",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -33,6 +55,39 @@
     "source_id": "9672727"
   },
   {
+    "title": "Cliff Edwards (Ukulele Ike)* - If You'll Come Back / It Ain't Gonna Rain No Mo",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Bell",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "12132869"
+  },
+  {
+    "title": "Corona Dance Orchestra - Ukulele Lady / The Midnight Waltz",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Jazz, Pop",
+    "label": "Regal",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "16115784"
+  },
+  {
+    "title": "Dale's Dance Orchestra - Footloose / Cecilia",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Lincoln, The Lincoln Record Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "19949476"
+  },
+  {
     "title": "Earl Gresh And His Gangplank Orchestra* - Row, Row, Rosie! / She Was Just A Sailor's Sweetheart",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -53,6 +108,17 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "11871445"
+  },
+  {
+    "title": "Eddie Elkins And His Orchestra* / The Knickerbockers (2) - Don't Wait Too Long / You Told Me To Go",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Columbia",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "16679163"
   },
   {
     "title": "Ethel Waters And Her Ebony Four - Go Back Where You Stayed Last Night / Down Home Blues",
@@ -77,15 +143,15 @@
     "source_id": "11034791"
   },
   {
-    "title": "George Olsen And His Music* / Charles Dornberger And His Orchestra* - Those Panama Mamas / Oh That Sweet In Suite 16",
+    "title": "Golden Gate Orchestra  /  Bar Harbor Society Orchestra* - O Katharina / Titina",
     "artist": "Unknown Artist",
     "year": 1925,
     "country": "US",
-    "genre": "Jazz",
-    "label": "Victor",
+    "genre": "Jazz, Pop",
+    "label": "Puritan",
     "popularity_score": 0,
     "source_api": "discogs",
-    "source_id": "7620752"
+    "source_id": "5837559"
   },
   {
     "title": "Harry Spindler And His Orchestra / Dixie Daisies - Brown Eyes, Why Are You Blue? / Headin' For Baltimore",
@@ -110,6 +176,17 @@
     "source_id": "8345047"
   },
   {
+    "title": "Hollywood Dance Orchestra / Paul Van Loan And His Orchestra - Hawaiian Love Nest / Weaver Of Dreams",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Cameo, Cameo Record Corporation, Cameo Record Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "8259847"
+  },
+  {
     "title": "Irving Kaufman - Yes Sir, That's My Baby / New York Ain't New York Any More",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -119,6 +196,50 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "12267801"
+  },
+  {
+    "title": "Isham Jones Orchestra - Let Me Linger Longer In Your Arms / Ida - I Do",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Jazz, Pop",
+    "label": "Brunswick, Cliftophone Ltd., Chappell Piano Co. Ltd.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "12419101"
+  },
+  {
+    "title": "Jack Denney And His Orchestra* / Varsity Eight - Easy Goin' Mama / Oh, Mabel!",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Cameo, Cameo Record Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "6657672"
+  },
+  {
+    "title": "Newport Society Orchestra / Sam Lanin's Dance Orchestra* - Don't Bring Lulu / Oh Maw, Oh Paw, Isn't She The Sweetest Thing",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Regal",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "11762224"
+  },
+  {
+    "title": "Paul Specht And His Orchestra - Lonesome Me / I'm Knee Deep In Daisies",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Columbia",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "17304544"
   },
   {
     "title": "Paul Whiteman & His Orchestra* - Last Night On The Back Porch / If I Can't Have The Sweetie I Want",
@@ -165,6 +286,28 @@
     "source_id": "15900821"
   },
   {
+    "title": "Rudy Wiedoeft - Saxarella / Danse Hongroise",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "Australia",
+    "genre": "Jazz, Pop",
+    "label": "Brunswick, The Brunswick-Balke-Collender Company",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "14872134"
+  },
+  {
+    "title": "Sam Lanin's Dance Orchestra* / Perry's Hot Dogs - Bam Bam Baby Shore / Tweedle Dee Tweedle-Doo",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Regal",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "10727694"
+  },
+  {
     "title": "Savoy Orpheans* - No, No, Nanette / Rose-Marie",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -176,6 +319,28 @@
     "source_id": "17729947"
   },
   {
+    "title": "Southern Quartet* - Hard Trials And Great Tribulations / My Lord's Gonna Move This Wicked Race",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "USA & Canada",
+    "genre": "Jazz, Folk, World, & Country",
+    "label": "Columbia, Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "12019972"
+  },
+  {
+    "title": "St. Louis Rhythm Kings - She's My Sheba, I'm Her Sheik / Papa De-Da-Da",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz",
+    "label": "Columbia, Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "12038656"
+  },
+  {
     "title": "The Cavaliers (2) - Day Dreaming / Funny",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -185,6 +350,17 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "7534231"
+  },
+  {
+    "title": "The Manhattan Dance Makers* - The Kinky Kids Parade / There Ain't No Flies On Auntie",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Harmony, Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "7766793"
   },
   {
     "title": "The Radio Franks Wright And Bessinger - I Never Knew / I Wonder Where My Baby Is To-Night",

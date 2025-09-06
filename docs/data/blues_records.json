@@ -1,5 +1,27 @@
 [
   {
+    "title": "Butterbeans And Susie* - Adam And Eve / Consolation Blues",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Blues",
+    "label": "Okeh, General Phonograph Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "8847354"
+  },
+  {
+    "title": "Butterbeans And Susie* - Cold Storage Papa (Mama's A Little Too Warm For You) / Bow Legged Papa",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Blues",
+    "label": "Okeh, General Phonograph Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "7195976"
+  },
+  {
     "title": "Charlie Jackson* - Salt Lake City Blues / Salty Dog Blues",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -11,6 +33,17 @@
     "source_id": "4251013"
   },
   {
+    "title": "Elkins-Payne Jubilee Singers* / Southland Jubilee Singers - When The Saints Go Marching In / My Lord's Gonna Move This Wicked Race",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Blues",
+    "label": "Okeh, General Phonograph Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "7599907"
+  },
+  {
     "title": "Ethel Waters And Her Ebony Four - Go Back Where You Stayed Last Night / Down Home Blues",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -20,5 +53,27 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "9467327"
+  },
+  {
+    "title": "Ida Cox And Her Five Blue Spells - Graveyard Bound Blues / Mississippi River Blues",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Blues",
+    "label": "Paramount, The New York Recording Laboratories",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "12132635"
+  },
+  {
+    "title": "Julia Moody & Edgar Dowell's \"Chicago Waddlers\" - Midnight Dan / Police Blues",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Blues",
+    "label": "Columbia, Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "6981589"
   }
 ]

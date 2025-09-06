@@ -134,54 +134,91 @@ section {
     font-style: italic;
 }
 
-.recordings-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 1.5rem;
+.recordings-table-container {
     margin-top: 2rem;
-}
-
-.recording-card {
+    overflow-x: auto;
     background: var(--card-background);
-    border: 1px solid var(--border-color);
     border-radius: 10px;
-    padding: 1.5rem;
     box-shadow: var(--shadow);
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid var(--border-color);
 }
 
-.recording-card:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 8px 15px rgba(139, 69, 19, 0.15);
+.recordings-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.9rem;
 }
 
-.recording-card h3 {
-    color: var(--primary-color);
-    margin-bottom: 0.5rem;
-    font-size: 1.2rem;
+.recordings-table th {
+    background: var(--primary-color);
+    color: white;
+    padding: 1rem 0.75rem;
+    text-align: left;
+    font-weight: bold;
+    white-space: nowrap;
+    position: sticky;
+    top: 0;
+    z-index: 10;
 }
 
-.recording-card .artist {
-    font-style: italic;
-    font-size: 1.1rem;
-    margin-bottom: 0.5rem;
+.recordings-table th.sortable {
+    cursor: pointer;
+    user-select: none;
+    transition: background-color 0.3s ease;
+}
+
+.recordings-table th.sortable:hover {
+    background: var(--accent-color);
+}
+
+.recordings-table .sort-arrow {
+    margin-left: 0.5rem;
+    font-size: 0.8rem;
+}
+
+.recordings-table td {
+    padding: 0.75rem;
+    border-bottom: 1px solid var(--border-color);
+    vertical-align: top;
+}
+
+.recordings-table tr:nth-child(even) {
+    background: rgba(210, 180, 140, 0.1);
+}
+
+.recordings-table tr:hover {
+    background: rgba(139, 69, 19, 0.1);
+}
+
+.recordings-table td:first-child {
+    font-weight: bold;
     color: var(--accent-color);
 }
 
-.recording-card .metadata {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin-top: 1rem;
+.recordings-table td:nth-child(2) {
+    color: var(--primary-color);
+    font-weight: 500;
 }
 
-.recording-card .metadata span {
-    background: var(--secondary-color);
-    padding: 0.2rem 0.5rem;
-    border-radius: 12px;
-    font-size: 0.8rem;
-    color: var(--primary-color);
+.recordings-table td:nth-child(3) {
+    text-align: center;
     font-weight: bold;
+}
+
+.recordings-table .links-cell {
+    text-align: center;
+    width: 50px;
+}
+
+.youtube-link {
+    display: inline-block;
+    font-size: 1.2rem;
+    text-decoration: none;
+    transition: transform 0.3s ease;
+}
+
+.youtube-link:hover {
+    transform: scale(1.2);
 }
 
 .stats {

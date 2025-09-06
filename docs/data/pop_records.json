@@ -1,5 +1,27 @@
 [
   {
+    "title": "\"Piggy\" Jones & His Orch. - I'm Knee Deep In Daisies / I'm In Love With You",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Gennett, Gennett Records",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "14164238"
+  },
+  {
+    "title": "Amelita Galli-Curci - Come D'aurato Sogno (Tacea La Notte Placida) / Timor Di Me? (D'amor Sull'ali Rosee)",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Pop, Classical",
+    "label": "His Master's Voice, The Gramophone Co. Ltd.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "5383475"
+  },
+  {
     "title": "Bob Haring And His Orchestra* / Varsity Eight - I Got Along Before I Met You (And I'll Get Along Fine After You're Gone) / Charleston",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -66,6 +88,17 @@
     "source_id": "13319322"
   },
   {
+    "title": "Cliff Edwards (Ukelele Ike)* - Paddlin' Madelin' Home / I'm A Hard To Get Can Be Had Papa Looking For A Can Be Had Hard To Get Girl",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Pop",
+    "label": "Perfect, Star Series, Perfect Record Company",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "8008044"
+  },
+  {
     "title": "Cliff Edwards (Ukelele Ike)* - The Only Only One For Me / Oh, Lady Be Good!",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -77,6 +110,17 @@
     "source_id": "9672727"
   },
   {
+    "title": "Cliff Edwards (Ukulele Ike)* - If You'll Come Back / It Ain't Gonna Rain No Mo",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Bell",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "12132869"
+  },
+  {
     "title": "Cliff Edwards* - I've Found My Sweetheart Sally / When Georgia Smiles",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -86,6 +130,28 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "10237753"
+  },
+  {
+    "title": "Corona Dance Orchestra - Ukulele Lady / The Midnight Waltz",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Jazz, Pop",
+    "label": "Regal",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "16115784"
+  },
+  {
+    "title": "Dale's Dance Orchestra - Footloose / Cecilia",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Lincoln, The Lincoln Record Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "19949476"
   },
   {
     "title": "Earl Gresh And His Gangplank Orchestra* - Row, Row, Rosie! / She Was Just A Sailor's Sweetheart",
@@ -110,6 +176,28 @@
     "source_id": "11871445"
   },
   {
+    "title": "Eddie Elkins And His Orchestra* / The Knickerbockers (2) - Don't Wait Too Long / You Told Me To Go",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Columbia",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "16679163"
+  },
+  {
+    "title": "Ernst Rolf - Det Gungar Ett Skepp / När Jag Kommer Igen",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "Sweden",
+    "genre": "Pop, Folk, World, & Country",
+    "label": "Odeon",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "2572748"
+  },
+  {
     "title": "Frank Crumit - Ukulele Lady / My Sweetie Turned Me Down (What Do I Care-What Do I Care)",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -121,6 +209,28 @@
     "source_id": "8836882"
   },
   {
+    "title": "Frederick Kinsley On The Midmer-Losh Pipe Organ* - On The Road To Mandalay / A Song Of India",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Pop",
+    "label": "Edison Records",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "27622044"
+  },
+  {
+    "title": "Golden Gate Orchestra  /  Bar Harbor Society Orchestra* - O Katharina / Titina",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Puritan",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "5837559"
+  },
+  {
     "title": "Green Bros. Novelty Band* / Polla's Clover Gardens Orchestra - Oh, Katharina! / How I Love That Girl!",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -130,6 +240,17 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "10551378"
+  },
+  {
+    "title": "Hollywood Dance Orchestra / Paul Van Loan And His Orchestra - Hawaiian Love Nest / Weaver Of Dreams",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Cameo, Cameo Record Corporation, Cameo Record Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "8259847"
   },
   {
     "title": "International Novelty Orchestra - My Sweetie Turned Me Down / One Smile",
@@ -165,6 +286,28 @@
     "source_id": "12267801"
   },
   {
+    "title": "Isham Jones Orchestra - Let Me Linger Longer In Your Arms / Ida - I Do",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Jazz, Pop",
+    "label": "Brunswick, Cliftophone Ltd., Chappell Piano Co. Ltd.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "12419101"
+  },
+  {
+    "title": "Jack Denney And His Orchestra* / Varsity Eight - Easy Goin' Mama / Oh, Mabel!",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Cameo, Cameo Record Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "6657672"
+  },
+  {
     "title": "Jan Garber And His Orchestra - Cross-Words Between Sweetie And Me / Who Loved You Best?",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -196,6 +339,28 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "9598512"
+  },
+  {
+    "title": "Newport Society Orchestra / Sam Lanin's Dance Orchestra* - Don't Bring Lulu / Oh Maw, Oh Paw, Isn't She The Sweetest Thing",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Regal",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "11762224"
+  },
+  {
+    "title": "Paul Specht And His Orchestra - Lonesome Me / I'm Knee Deep In Daisies",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Columbia",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "17304544"
   },
   {
     "title": "Paul Whiteman & His Orchestra* - Last Night On The Back Porch / If I Can't Have The Sweetie I Want",
@@ -242,6 +407,28 @@
     "source_id": "5139710"
   },
   {
+    "title": "Percival Mackey - Tea For Two / I Want To Be Happy",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Pop",
+    "label": "Columbia, Columbia Graphophone Company Ltd.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "13982688"
+  },
+  {
+    "title": "Prince's Band - The Whistler And His Dog / The Warbler's Serenade",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Pop",
+    "label": "Columbia, Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "14003927"
+  },
+  {
     "title": "Ross Gorman & His Earl Carroll Orchestra* - Oh! Boy, What A Girl / You Forgot To Remember",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -253,6 +440,28 @@
     "source_id": "15900821"
   },
   {
+    "title": "Rudy Wiedoeft - Saxarella / Danse Hongroise",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "Australia",
+    "genre": "Jazz, Pop",
+    "label": "Brunswick, The Brunswick-Balke-Collender Company",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "14872134"
+  },
+  {
+    "title": "Sam Lanin's Dance Orchestra* / Perry's Hot Dogs - Bam Bam Baby Shore / Tweedle Dee Tweedle-Doo",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Regal",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "10727694"
+  },
+  {
     "title": "Signor Lou Chiha \"Friscoe\"* - Aloha Oe (Farewell To Thee) / Gypsy Love Song",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -262,6 +471,39 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "14319479"
+  },
+  {
+    "title": "The Clover Gardens Orchestra* - I Don't Want To Get Married / China Girl",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Pop",
+    "label": "Columbia, Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "27259557"
+  },
+  {
+    "title": "The Happiness Boys Billy Jones And Ernest Hare* - On My Ukulele / How Do You Do?",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "Australia",
+    "genre": "Pop",
+    "label": "Brunswick, The Brunswick-Balke-Collender Company",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "13513549"
+  },
+  {
+    "title": "The Manhattan Dance Makers* - The Kinky Kids Parade / There Ain't No Flies On Auntie",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Jazz, Pop",
+    "label": "Harmony, Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "7766793"
   },
   {
     "title": "The Radio Franks Wright And Bessinger - Can You Bring Back The Heart I Gave You  / At The End Of The Road",
@@ -286,6 +528,39 @@
     "source_id": "13358257"
   },
   {
+    "title": "Turner Layton - Mighty Lak' A Rose / Lil' Gal",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "UK",
+    "genre": "Pop",
+    "label": "Columbia, Columbia Graphophone Company Ltd., The John Church Co., Copyright Control",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "28690819"
+  },
+  {
+    "title": "Tuxedo Orchestra* - I Love You, California / Just A Little Drink",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Pop",
+    "label": "Vocalion, The Aeolian Company",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "22827563"
+  },
+  {
+    "title": "Van And Schenck / The Whispering Pianist, (Art Gillham)* - Take 'Em To The Door / How's Your Folks & My Folks",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Pop",
+    "label": "Columbia, Columbia Phonograph Company, Inc., Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "14748303"
+  },
+  {
     "title": "Vernon Dalhart - Jesse James / Just Tell Them You Saw Me",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -295,6 +570,28 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "9942278"
+  },
+  {
+    "title": "Vernon Dalhart - The Lightning Express / Blue Ridge Mountain Blues",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Pop, Folk, World, & Country",
+    "label": "Gennett, Gennett Records",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "24198656"
+  },
+  {
+    "title": "Vernon Dalhart - The Sailor Boy's Farewell / When The Whole World Turns You Down (Go Back To Your Mother And Home)",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Pop, Folk, World, & Country",
+    "label": "Okeh, General Phonograph Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "23305970"
   },
   {
     "title": "Wendell Hall - Sunshine / It Struck My Funny Bone ",

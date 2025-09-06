@@ -1,5 +1,49 @@
 [
   {
+    "title": "Arthur Tanner / Dixie String Band (2) - When I Was Single My Pockets Would Jingle / Soldiers Joy",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Folk, World, & Country",
+    "label": "Paramount, The New York Recording Laboratories",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "11448085"
+  },
+  {
+    "title": "Don Richardson (5) - Medley Of Jigs And Reels",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Folk, World, & Country",
+    "label": "Columbia, Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "9863383"
+  },
+  {
+    "title": "Ernst Rolf - Det Gungar Ett Skepp / När Jag Kommer Igen",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "Sweden",
+    "genre": "Pop, Folk, World, & Country",
+    "label": "Odeon",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "2572748"
+  },
+  {
+    "title": "Homer A. Rodeheaver* - Is My Name Written There? / We Are Going Down The Valley ",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Folk, World, & Country",
+    "label": "Columbia, Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "8407862"
+  },
+  {
     "title": "Jesse Crawford - I Wonder What's Become Of Sally? / The Pal That I Loved Stole The Gal That I Loved",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -20,6 +64,39 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "14431007"
+  },
+  {
+    "title": "Kirilloff's Russian Balalaika Orchestra* - Odessa / Polianka",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Folk, World, & Country",
+    "label": "Victor, Victor Talking Machine Co.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "14130045"
+  },
+  {
+    "title": "Land Norris - Dogwood Mountain / Red Creek",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Folk, World, & Country",
+    "label": "Okeh, Okeh Phonograph Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "9606663"
+  },
+  {
+    "title": "May Singhi Breen - Ukulele Lesson",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Non-Music, Folk, World, & Country",
+    "label": "Victor, Victor Talking Machine Co., Victor Pressing Plant, Camden",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "7632874"
   },
   {
     "title": "Mc Michen's Home Town Band* - Silver Bell / Sweet Bunch Of Daisies",
@@ -66,6 +143,28 @@
     "source_id": "14319479"
   },
   {
+    "title": "Southern Quartet* - Hard Trials And Great Tribulations / My Lord's Gonna Move This Wicked Race",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "USA & Canada",
+    "genre": "Jazz, Folk, World, & Country",
+    "label": "Columbia, Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "12019972"
+  },
+  {
+    "title": "The Jenkins Family* - Sail On / The Silver Lining",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Folk, World, & Country",
+    "label": "Okeh, General Phonograph Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "8114056"
+  },
+  {
     "title": "Vernon Dalhart - Jesse James / Just Tell Them You Saw Me",
     "artist": "Unknown Artist",
     "year": 1925,
@@ -86,6 +185,39 @@
     "popularity_score": 0,
     "source_api": "discogs",
     "source_id": "10638060"
+  },
+  {
+    "title": "Vernon Dalhart - The Lightning Express / Blue Ridge Mountain Blues",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Pop, Folk, World, & Country",
+    "label": "Gennett, Gennett Records",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "24198656"
+  },
+  {
+    "title": "Vernon Dalhart - The Sailor Boy's Farewell / When The Whole World Turns You Down (Go Back To Your Mother And Home)",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Pop, Folk, World, & Country",
+    "label": "Okeh, General Phonograph Corporation",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "23305970"
+  },
+  {
+    "title": "Vernon Dalhart - The Sidewalks Of New York (East Side, West Side) / The Girl I Left Behind Me",
+    "artist": "Unknown Artist",
+    "year": 1925,
+    "country": "US",
+    "genre": "Folk, World, & Country",
+    "label": "Columbia, Columbia Phonograph Company, Inc.",
+    "popularity_score": 0,
+    "source_api": "discogs",
+    "source_id": "13996173"
   },
   {
     "title": "Waikiki Hawaiian Orchestra - My Honolulu Dream Girl / In The Heart Of Hawaii",

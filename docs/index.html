@@ -51,8 +51,8 @@
                     <select id="sort-filter">
                         <option value="title">Title</option>
                         <option value="artist">Artist</option>
-                        <option value="popularity">Popularity</option>
                         <option value="country">Country</option>
+                        <option value="genre">Genre</option>
                     </select>
                 </div>
 
@@ -67,8 +67,29 @@
             
             <div id="results-count" class="results-count"></div>
             
-            <div id="recordings-grid" class="recordings-grid">
-                <!-- Recordings will be loaded here -->
+            <div id="recordings-table-container" class="recordings-table-container">
+                <table id="recordings-table" class="recordings-table">
+                    <thead>
+                        <tr>
+                            <th class="sortable" data-sort="country">
+                                Country <span class="sort-arrow">↕️</span>
+                            </th>
+                            <th class="sortable" data-sort="genre">
+                                Genre <span class="sort-arrow">↕️</span>
+                            </th>
+                            <th class="sortable" data-sort="artist">
+                                Artist <span class="sort-arrow">↕️</span>
+                            </th>
+                            <th class="sortable" data-sort="title">
+                                Title <span class="sort-arrow">↕️</span>
+                            </th>
+                            <th>Links</th>
+                        </tr>
+                    </thead>
+                    <tbody id="recordings-tbody">
+                        <!-- Recordings will be loaded here -->
+                    </tbody>
+                </table>
             </div>
             
             <div id="no-results" style="display: none;" class="no-results">
