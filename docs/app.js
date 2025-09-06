@@ -19,18 +19,19 @@ class CenturyOldTunesApp {
     
     populateFilters() {
         // Get unique countries and genres from actual data
-        const countries = [...new Set(this.recordings.map(r => r.country).filter(c => c && c !== 'Unknown' && c !== ''))]
+        const rawCountries = this.recordings.map(r => r.country).filter(c => c && c !== 'Unknown' && c !== '');
+        const normalizedCountries = [...new Set(rawCountries.map(c => this.normalizeCountryForDisplay(c)))]
             .sort();
         const genres = [...new Set(this.recordings.map(r => this.normalizeGenre(r.genre)).filter(g => g && g !== ''))]
             .sort();
         
-        // Populate country dropdown
+        // Populate country dropdown with normalized country names
         const countrySelect = document.getElementById('country-filter');
         countrySelect.innerHTML = '<option value="">All Countries</option>';
-        countries.forEach(country => {
+        normalizedCountries.forEach(country => {
             const option = document.createElement('option');
             option.value = country;
-            option.textContent = country === 'US' ? 'United States' : country;
+            option.textContent = country;
             countrySelect.appendChild(option);
         });
         
@@ -44,7 +45,57 @@ class CenturyOldTunesApp {
             genreSelect.appendChild(option);
         });
         
-        console.log('Populated filters - Countries:', countries.length, 'Genres:', genres.length);
+        console.log('Populated filters - Countries:', normalizedCountries.length, 'Genres:', genres.length);
+    }
+    
+    normalizeCountryForDisplay(country) {
+        // Normalize country codes to consistent display names
+        const countryMap = {
+            'US': 'United States',
+            'USA': 'United States',
+            'GB': 'United Kingdom', 
+            'UK': 'United Kingdom',
+            'DE': 'Germany',
+            'FR': 'France',
+            'AT': 'Austria',
+            'IT': 'Italy',
+            'CA': 'Canada',
+            'AU': 'Australia',
+            'NL': 'Netherlands',
+            'BE': 'Belgium',
+            'CH': 'Switzerland',
+            'ES': 'Spain',
+            'SE': 'Sweden',
+            'NO': 'Norway',
+            'DK': 'Denmark',
+            'FI': 'Finland'
+        };
+        
+        return countryMap[country] || country;
+    }
+    
+    normalizeCountryForFiltering(country) {
+        // Map display names back to all possible database values
+        const countryVariants = {
+            'United States': ['US', 'USA'],
+            'United Kingdom': ['GB', 'UK'],
+            'Germany': ['DE'],
+            'France': ['FR'],
+            'Austria': ['AT'],
+            'Italy': ['IT'],
+            'Canada': ['CA'],
+            'Australia': ['AU'],
+            'Netherlands': ['NL'],
+            'Belgium': ['BE'],
+            'Switzerland': ['CH'],
+            'Spain': ['ES'],
+            'Sweden': ['SE'],
+            'Norway': ['NO'],
+            'Denmark': ['DK'],
+            'Finland': ['FI']
+        };
+        
+        return countryVariants[country] || [country];
     }
     
     updateYearDisplay() {
@@ -276,11 +327,9 @@ class CenturyOldTunesApp {
         
         // Filter recordings
         this.filteredRecordings = this.recordings.filter(recording => {
-            // Country matching - handle various formats
+            // Country matching - use normalization functions
             const matchesCountry = !countryFilter || 
-                recording.country === countryFilter ||
-                (countryFilter === 'United States' && (recording.country === 'US' || recording.country === 'USA')) ||
-                (countryFilter === 'United Kingdom' && (recording.country === 'UK' || recording.country === 'GB'));
+                this.normalizeCountryForFiltering(countryFilter).includes(recording.country);
             
             // Genre matching - handle complex genre strings and normalization
             const recordingGenre = this.normalizeGenre(recording.genre);
@@ -341,7 +390,7 @@ class CenturyOldTunesApp {
         
         tbodyEl.innerHTML = this.filteredRecordings.map(recording => `
             <tr>
-                <td>${this.escapeHtml(recording.country)}</td>
+                <td>${this.escapeHtml(this.normalizeCountryForDisplay(recording.country))}</td>
                 <td>${this.escapeHtml(this.normalizeGenreForDisplay(recording.genre))}</td>
                 <td>${this.escapeHtml(recording.artist)}</td>
                 <td>${this.escapeHtml(recording.title)}</td>
